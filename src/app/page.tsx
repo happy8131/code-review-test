@@ -22,7 +22,7 @@ export default function Home() {
             최신 웹 기술과 개발 트렌드를 함께 탐색해보세요
           </p>
           <button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold py-3 px-8 rounded-lg animate-glow transition-all hover:scale-105">
-            <span className="inline-block animate-bounce-custom">▶</span> 시작하기
+            <span className="inline-block animate-pulse-custom">▶</span> 시작하기
           </button>
         </section>
 
